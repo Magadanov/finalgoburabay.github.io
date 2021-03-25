@@ -121,6 +121,9 @@ video{
 .return{
   display: inline-block;
 }
+.third-step1 .col-lg-3{
+  padding-top: 0;
+}
 input{
   background-color: #FFFFE0;
 }
